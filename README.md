@@ -75,5 +75,3 @@ Deploy
 Créditos
 - Desenvolvido por Victor Silva — https://www.linkedin.com/in/victor-silva-01front/
 
-Licença
-- Este projeto é licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para o texto completo.
